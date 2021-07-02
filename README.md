@@ -6,4 +6,4 @@ If you want to try the program out yourself, you can clone the repository and fi
 ![CL Example](clexample.png)
 ![HTML Example](htmlexample.png)
 ## License
-MIT License, feel free to use.
+MIT License
